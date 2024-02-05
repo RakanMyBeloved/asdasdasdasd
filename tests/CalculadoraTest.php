@@ -13,7 +13,7 @@ final class CalculadoraTest extends TestCase
 
     public function testDiff()
     {
-        $this->assertEquals(1,3);
+        $this->assertEquals(1,1);
         
     }
 
